@@ -2,8 +2,6 @@
 
 Welcome to the next level of trading with Channel Trend Signals A.I, the ultimate AI-powered tool. Experience precise trend analysis, real-time signals, and enhanced profitability. Stay ahead of the market, seize opportunities, and unlock the future of intelligent trading. Supercharge your success with Channel Trend Signals A.I.
 
-![Channel Trend Signals](Channel%20Trend%20Signals%201D.png)
-
 ## Features
 
 🌟 AI-Powered Precision: Leverage advanced artificial intelligence algorithms for unparalleled trend analysis accuracy.
